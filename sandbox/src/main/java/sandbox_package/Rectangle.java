@@ -1,3 +1,5 @@
+package sandbox_package;
+
 public class Rectangle {
 
   public double a;

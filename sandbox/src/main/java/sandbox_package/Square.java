@@ -1,3 +1,5 @@
+package sandbox_package;
+
 public class Square {
 
   public double a;
